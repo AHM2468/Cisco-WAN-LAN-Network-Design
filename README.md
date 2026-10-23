@@ -29,4 +29,4 @@ The network is split into two distinct WAN regions connected via a serial link i
 3. **Disabled Interfaces:** Resolved a physical layer link failure by manually activating the default-disabled serial interfaces on both boundary routers.
 
 ## 📂 Repository Content
-- `Network_Topology.pkt`: The original Cisco Packet Tracer design file for verification and live simulation testing.
+- `IT351 Project.pkt`: The original Cisco Packet Tracer design file for verification and live simulation testing.
